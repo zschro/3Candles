@@ -1,0 +1,2 @@
+# 3Candles
+Simple Strategy
